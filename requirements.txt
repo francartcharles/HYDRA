@@ -1,0 +1,15 @@
+PySide6>=6.6
+numpy
+scipy
+sympy
+matplotlib
+opencv-python-headless
+tifffile
+scikit-image
+pymc
+pytensor
+arviz
+numba
+nutpie
+openpyxl
+imageio-ffmpeg
