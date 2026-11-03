@@ -170,4 +170,4 @@ HYDRA/
 
 ## Citation and licence
 
-If you use HYDRA in academic work, please cite the author: Dr. Charles Francart. *Add your licence and preferred citation here.*
+If you use HYDRA in academic work, please cite the author: Dr. Charles Francart (3SR Laboratory - UGA)
