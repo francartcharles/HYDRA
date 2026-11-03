@@ -89,12 +89,7 @@ The sidebar is organised in the order of a typical test.
 
 ## Installation
 
-### Option 1 — Windows executable
-
-1. Download `HYDRA.exe` from the [**Releases**](../../releases) page.
-2. Run it. It is a single self-contained file: the first launch can take several seconds, as it unpacks itself.
-
-### Option 2 — From source
+### From source
 
 ```bash
 git clone https://github.com/<your-account>/<your-repo>.git
